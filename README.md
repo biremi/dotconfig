@@ -1,0 +1,2 @@
+Dev environment configs:
+- nvim
